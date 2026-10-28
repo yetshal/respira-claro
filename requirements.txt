@@ -1,0 +1,11 @@
+# requirements.txt
+# Dependencias para RespiraClaro con PySwip + Streamlit
+
+streamlit>=1.28.0
+pyswip>=0.2.11
+graphviz>=0.20.0
+
+# Nota: PySwip requiere SWI-Prolog instalado en el sistema
+# Windows: Descargar de https://www.swi-prolog.org/download/stable
+# Linux: sudo apt-get install swi-prolog
+# macOS: brew install swi-prolog
